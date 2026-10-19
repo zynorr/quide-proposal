@@ -1,0 +1,15 @@
+id,category,assumption,value,tag,verified_by
+A-01,problem,Official local dev env requires Linux+AVX2+24-32GB RAM and 25-50GB/day disk,true,V,https://docs.qubic.org/developers/dev-kit
+A-02,problem,Dedicated test nodes are only provided manually for projects/hackathons,true,V,https://docs.qubic.org/developers/testnet-resources
+A-03,problem,Online C++ editor RFP remains unclaimed,true,V,https://github.com/qubic/grants
+A-04,market,Hackathon scale (participants/teams),1654/265,V,https://lablab.ai/ai-articles/qubic-ai-hackathon-case-study
+A-05,market,Active external Qubic developers,~300,U,to be validated in E1
+A-06,market,Paid conversion of free users,0.10,U,to be validated in E2/E3
+A-07,pricing,Pro tier price range (USD/dev/month),19-29,U,to be validated in E3
+A-08,cost,Idle workspace monthly cost target (USD),<=12,U,to be measured in E5
+A-09,cost,Active devnet-hour cost target (USD),<=0.30,U,to be measured in E5
+A-10,return,Revenue share rate and cap,5pct/2.5x,I,proposal for negotiation
+A-11,team,Both co-founders are full-time from M1,true,U,to be confirmed before submission
+A-12,team,Qubic-specific contract expertise requires the external advisor (no public Qubic work by founders),true,I,https://github.com/zynorr and https://github.com/Qeyphen profile audit
+A-13,budget,Program ask 30K USD over 12 weeks in four tranches,true,I,team decision Oct 2026 (supersedes 115K estimate in research report)
+A-14,team,Founder compensation below market with remainder deferred to revenue share,true,U,to be confirmed
