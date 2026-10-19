@@ -11,7 +11,7 @@
 | **Base** | Gross revenue of QuIDE (subscriptions, usage, event bundles, enterprise licenses) |
 | **Rate** | 5% |
 | **Cap** | 2.5× total disbursed by the program ($75K at the $30K ask) |
-| **Duration** | Until the cap is reached, or 60 months from first payment — whichever is earlier |
+| **Duration** | Until the cap is reached, or 60 months from first payment - whichever is earlier |
 | **Reporting** | Quarterly statement (revenue, computation, payment) plus annual summary; read-only metrics dashboard shared with the board; standard audit rights |
 
 **Rationale.** A cash-flow tooling business is best matched by a revenue share: it starts small and scales with success, needs no valuation exercise, and preserves founder upside to keep the team motivated. The cap bounds the program's exposure and makes the return predictable.
@@ -21,4 +21,4 @@
 - **Hybrid:** smaller revenue share (3%) plus a smaller equity slice.
 
 ## Working-capital plan (given payment-on-delivery)
-M1–M2 are funded by the team's own runway and/or consulting income; program payments arriving after each milestone acceptance fund M3–M4. We will not require upfront capital to start. **[I]**
+M1-M2 are funded by the team's own runway and/or consulting income; program payments arriving after each milestone acceptance fund M3-M4. We will not require upfront capital to start. **[I]**

@@ -1,7 +1,7 @@
 # Risks & Security
 
 ## Security assumptions (product)
-- **No secrets in our systems:** customer keys and seeds are never uploaded or stored; contract signing uses external wallets/tools. Devnet identities are throwaway test keys, clearly labeled, with no mainnet value. **[I — design commitment]**
+- **No secrets in our systems:** customer keys and seeds are never uploaded or stored; contract signing uses external wallets/tools. Devnet identities are throwaway test keys, clearly labeled, with no mainnet value. **[I - design commitment]**
 - **Tenant isolation:** untrusted C++ compilation and execution run in sandboxed environments (gVisor- or Firecracker-class isolation) with CPU/memory/disk quotas, egress restrictions, and per-tenant network boundaries. **[I]**
 - **Supply chain:** build images pinned by digest; upstream (qubic/core, AIO kit) updates staged through automated regression tests before rollout. **[I]**
 - **Blast radius:** devnets are isolated from mainnet and from each other; no production core nodes are part of the service. **[I]**
@@ -9,7 +9,7 @@
 ## Audit plan
 - **Before beta (M3/M4):** targeted third-party security review of multi-tenant isolation and sandbox escape, funded from the M3 tranche; findings fixed before paid tiers open. A scope beyond the tranche waits for revenue-funded review post-beta.
 - **Ongoing:** annual re-test; dependency scanning in CI; public status and incident history.
-- We deploy **no smart contracts of our own**, so the program's covered smart-contract audit (1 per project) is reserved for future contract work (e.g., if a template or registry contract is ever added). **[V — program term]**
+- We deploy **no smart contracts of our own**, so the program's covered smart-contract audit (1 per project) is reserved for future contract work (e.g., if a template or registry contract is ever added). **[V - program term]**
 
 ## Dependencies
 | Dependency | Risk | Mitigation |

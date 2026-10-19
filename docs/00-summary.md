@@ -1,9 +1,9 @@
-# QuIDE — One-Page Summary
+# QuIDE - One-Page Summary
 
-**One-liner:** Browser-based workspaces and one-click private devnets for Qubic C++ smart contracts — from idea to a running contract on your own isolated testnet in under ten minutes, with zero local setup.
+**One-liner:** Browser-based workspaces and one-click private devnets for Qubic C++ smart contracts - from idea to a running contract on your own isolated testnet in under ten minutes, with zero local setup.
 
 ## Problem
-Qubic's sanctioned local development environment is out of reach for most developers: Linux x86-64 + AVX2 only, ≥24 GB RAM (≥32 GB with explorer), 8+ cores, 25–50 GB/day disk writes — official docs call it *"a real dev environment, not a laptop toy"* and tell non-Linux users to rent a VPS. Team and hackathon isolation requires hand-provisioned dedicated test nodes requested from organizers, and there is no hosted CI. Qubic's own grants repository still lists an unclaimed RFP for an online C++ smart-contract editor. **[V]**
+Qubic's sanctioned local development environment is out of reach for most developers: Linux x86-64 + AVX2 only, ≥24 GB RAM (≥32 GB with explorer), 8+ cores, 25-50 GB/day disk writes - official docs call it *"a real dev environment, not a laptop toy"* and tell non-Linux users to rent a VPS. Team and hackathon isolation requires hand-provisioned dedicated test nodes requested from organizers, and there is no hosted CI. Qubic's own grants repository still lists an unclaimed RFP for an online C++ smart-contract editor. **[V]**
 
 ## User
 External smart-contract developers: hackathon participants (~1,600 people / 265 teams in the December 2025 online event), Nostromo-track and grant-funded contract teams, onboarding developers and educators, and integration partners prototyping on Qubic. **[V]**
